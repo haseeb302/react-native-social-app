@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "45771990482",
+    "project_id": "react-native-social-app-56d60",
+    "storage_bucket": "react-native-social-app-56d60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45771990482:android:91eabaecd5d56c1fce540b",
+        "android_client_info": {
+          "package_name": "com.socialmediauiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45771990482-o7gpq678ugnrl2rgq747sen49b7k4cb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialmediauiapp",
+            "certificate_hash": "f3ede7ff9eba4da4722870fb53d8e1318a08e1c0"
+          }
+        },
+        {
+          "client_id": "45771990482-7dgusvfbg7pk488u7pv8tu6147v8tjsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWluPC2TkkuVmrpn4MJTm-FWHpmPBvKXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45771990482-7dgusvfbg7pk488u7pv8tu6147v8tjsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
