@@ -1,12 +1,10 @@
 /* eslint-disable prettier/prettier */
-import { StyleSheet, Text, View } from "react-native";
+import { StyleSheet, Text, View, ScrollView } from "react-native";
 import React from "react";
 
 const MessagesScreen = () => {
     return (
-        <View>
-            <Text>MessagesScreen</Text>
-        </View>
+        <View></View>
     );
 };
 

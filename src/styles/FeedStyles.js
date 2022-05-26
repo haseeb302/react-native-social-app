@@ -47,6 +47,7 @@ export const PostText = styled.Text`
     font-size: 16px;
     padding-left: 15px;
     padding-right: 15px;
+    margin-bottom: 15px;
 `;
 
 export const Divider = styled.View`    
@@ -60,7 +61,7 @@ export const Divider = styled.View`
 export const PostImg = styled.Image`
     width: 100%;
     height: 250px;
-    margin-top: 15px;
+    /* margin-top: 15px; */
 `;
 
 export const InteractionContainer = styled.View`
